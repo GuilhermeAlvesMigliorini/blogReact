@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "My New Website",
+      "body": "Lorem ipsum dolor...",
+      "author": "Mário",
+      "id": 1
+    },
+    {
+      "title": "Welcome Party!",
+      "body": "Lorem ipsum dolor...",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "Web Dev Top Tips",
+      "body": "Lorem ipsum dolor...",
+      "author": "Mário",
+      "id": 3
+    }
+  ]
+}
